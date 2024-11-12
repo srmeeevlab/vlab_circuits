@@ -1,0 +1,148 @@
+/* * {
+
+
+    background: linear-gradient(180deg, #E9E5E5 0%, #D1CDCD 29%, #838181 100%);
+
+
+    
+} */
+
+.parent-div{
+    width: 100%; 
+    height: 100%; 
+    position: relative; 
+    background: linear-gradient(180deg, #E9E5E5 0%, #D1CDCD 29%, #838181 100%);
+}
+.logo-container-effect{
+    width: 1376px; 
+    height: 169px; 
+    left: 32px; 
+    top: 31px; 
+    position: absolute; 
+    background: rgba(119.84, 29.46, 30.97, 0.42); 
+    border-radius: 30px; 
+    border: 4px #FFD700 solid;
+}
+.logo-college-container{
+    width: 1376px;
+    height: 169px; 
+    left: 32px; 
+    top: 31px; 
+    position: absolute;
+}
+
+.college-name{
+    width: 998px; 
+    left: 212px; 
+    top: 50px; 
+    position: absolute; 
+    text-align: center;
+    color: black; 
+    font-size: 35px; 
+    font-family: Josefin Sans; 
+    font-weight: 700;
+    word-wrap: break-word;
+}
+.srm-logo{
+    width: 114px; 
+    height: 114px; 
+    left: 49px; 
+    top: 28px; 
+    position: absolute;
+}
+.srm-logo-effect{
+    width: 1376px; 
+    height: 169px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+    background: rgba(119.84, 29.46, 30.97, 0.42);
+    border-radius: 30px; 
+    border: 4px #FFD700 solid;
+}
+.components-container{
+    width: 212px; 
+    height: 722px; 
+    left: 32px; 
+    top: 241px; 
+    position: absolute;
+}
+.components-container-effect{
+    width: 212px; 
+    height: 722px; 
+    left: 32px; 
+    top: 235px; 
+    position: absolute; 
+    background: rgba(120, 29, 31, 0.42); 
+    border-radius: 30px;
+}
+.components-effect{
+    width: 212px; 
+    height: 722px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(120, 29, 31, 0.42); 
+    border-radius: 30px;
+}
+.components{
+    width: 148px; 
+    height: 654.82px; 
+    left: 32px; 
+    top: 34px; 
+    position: absolute; 
+    border-radius: 2px;
+}
+
+#simulator {
+
+    width: 267.50px; 
+    height: 43.75px;
+    left: 665px; 
+    top: 235px; 
+    position: absolute; 
+    text-align: center; 
+    color: rgb(0, 0, 0); 
+    font-size: 43.75px; 
+    font-family: Josefin Sans; 
+    font-weight: 700; word-wrap: 
+    break-word;
+}
+
+
+.simulator_window {
+
+
+    width: 1059px; 
+    height: 623px; 
+    left: 296px; 
+    top: 290px; 
+    position: absolute;
+}
+
+
+.simulator_window_border {
+
+
+    width: 1059px;
+    height: 623px;
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    opacity: 0.15; 
+    background: #D9D9D9; 
+    border-radius: 40px; 
+    border: 23px #FFD700 solid;
+
+}
+
+
+.simulator_window_internal {
+
+
+    width: 712px; 
+    height: 560px; 
+    left: 174px; 
+    top: 34px; 
+    position: absolute;
+}
