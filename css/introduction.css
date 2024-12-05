@@ -1,0 +1,15 @@
+
+.intro-page-text, .intro-page-heading{
+    color: black; 
+    /* font-size: 20px;  */
+    font-family: Poppins; 
+    font-weight: 800;
+    padding:5px;
+    margin:5px;
+}
+.intro-page-text{
+    font-size: 20px;
+}
+.intro-page-heading{
+    font-size: 35px;
+}

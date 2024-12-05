@@ -1,0 +1,108 @@
+body{
+    background: rgb(110,108,123);
+    background: linear-gradient(186deg, rgba(110,108,123,1) 7%, rgba(169,173,180,1) 48%, rgba(246,248,250,1) 98%);
+}
+.logo-college-container{
+    width: 1376px;
+    height: 100px; 
+    left: 31px; 
+    top: 10px; 
+    /* font-size: 30px; */
+    position: absolute;
+}
+.college-name{
+    width: 998px; 
+    left: 212px; 
+    top: 50px; 
+    position: absolute; 
+    text-align: center;
+    color: black; 
+    font-size: 25px; 
+    font-family: Josefin Sans; 
+    font-weight: 700;
+    word-wrap: break-word;
+}
+.srm-logo{
+    width: 80px; 
+    height: 80px; 
+    left: 49px; 
+    top: 19px; 
+    position: absolute;
+}
+.srm-logo-effect{
+    width: 1376px; 
+    height: 100px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+    background: rgba(119.84, 29.46, 30.97, 0.42);
+    border-radius: 30px; 
+    border: 4px #FFD700 solid;
+}
+.navbar{
+    width: 150px; 
+    height: 550px; 
+    left: 32px; 
+    top: 150px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    gap:50px;
+}
+.navbar-item a{
+    color: black; 
+    font-size: 20px; 
+    font-family: serif; 
+    font-weight: 900; 
+    word-wrap: break-word;
+    z-index: 100;
+    /* text-decoration: none; */
+}
+/* .navbar-item a:hover{
+    cursor: pointer;
+    color:white;
+    transform: scale(-10px);
+} */
+.navbar-effect{
+    width: 150px; 
+    height: 550px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(120, 29, 31, 0.42); 
+    border-radius: 30px;
+}
+.welcome-container{
+    width: 1059px; 
+    height: 470px; 
+    left: 296px; 
+    top: 200px; 
+    position: absolute;
+    z-index: 10;
+}
+.welcome-container-effect{
+    width: 1059px; 
+    height: 470px; 
+    left: 0; 
+    top: 0; 
+    position: absolute;
+    z-index: 10;
+    opacity: 0.15; border-radius: 40px
+}
+.home-text-container{
+    margin-top:40px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+}
+.home-page-text{
+    color: black; 
+    font-size: 58px; 
+    font-family: Poppins; 
+    font-weight: 800;
+    padding:5px;
+    margin:5px;
+}
