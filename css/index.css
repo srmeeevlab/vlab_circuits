@@ -2,18 +2,31 @@ body{
     background: rgb(110,108,123);
     background: linear-gradient(186deg, rgba(110,108,123,1) 7%, rgba(169,173,180,1) 48%, rgba(246,248,250,1) 98%);
 }
+
+.logo-container-effect{
+    width: 1376; 
+    height: 100px; 
+    left: 45px; 
+    top: 10px; 
+    position: absolute; 
+    background: rgba(119.84, 29.46, 30.97, 1); 
+    border-radius: 30px; 
+    border: 4px #FFD700 solid;
+}
 .logo-college-container{
     width: 1376px;
     height: 100px; 
-    left: 31px; 
+    left: 45px; 
     top: 10px; 
+    margin-left: 1.2%;
     /* font-size: 30px; */
     position: absolute;
 }
+
 .college-name{
     width: 998px; 
     left: 212px; 
-    top: 50px; 
+    top: 40px; 
     position: absolute; 
     text-align: center;
     color: black; 
@@ -35,7 +48,7 @@ body{
     left: 0px; 
     top: 0px; 
     position: absolute;
-    background: rgba(119.84, 29.46, 30.97, 0.42);
+    background: rgba(119.84, 29.46, 30.97,0.58);
     border-radius: 30px; 
     border: 4px #FFD700 solid;
 }

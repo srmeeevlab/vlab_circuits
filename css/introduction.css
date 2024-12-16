@@ -1,3 +1,35 @@
+.logo-container-effect{
+    width: 1376; 
+    height: 100px; 
+    left: 45px; 
+    top: 10px; 
+    position: absolute; 
+    background: rgba(119.84, 29.46, 30.97, 1); 
+    border-radius: 30px; 
+    border: 4px #FFD700 solid;
+}
+.logo-college-container{
+    width: 1376px;
+    height: 100px; 
+    left: 45px; 
+    top: 10px; 
+    margin-left: 1.2%;
+    /* font-size: 30px; */
+    position: absolute;
+}
+
+.college-name{
+    width: 998px; 
+    left: 212px; 
+    top: 40px; 
+    position: absolute; 
+    text-align: center;
+    color: black; 
+    font-size: 25px; 
+    font-family: Josefin Sans; 
+    font-weight: 700;
+    word-wrap: break-word;
+}
 
 .intro-page-text, .intro-page-heading{
     color: black; 
